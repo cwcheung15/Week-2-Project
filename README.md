@@ -44,7 +44,9 @@ Language - stores film’s language
 
 ER diagram
 
-![image](https://github.com/cwcheung15/Week-2-Project/assets/141175701/bd76fb36-c550-47d0-9c98-7dfb80f4d274)
+https://www.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png
+![image](https://github.com/cwcheung15/Week-2-Project/assets/141175701/5b9f4b96-bf8e-48fb-85f6-beb2802988b2)
+
 
 Objective
 
