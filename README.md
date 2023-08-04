@@ -3,6 +3,7 @@ Week-2-Project
 This is for the week 2 project.
 
 Background
+
 This project will be using the following database.
 
 DVD rental database
@@ -30,6 +31,7 @@ ER diagram
 ![image](https://github.com/cwcheung15/Week-2-Project/assets/141175701/bd76fb36-c550-47d0-9c98-7dfb80f4d274)
 
 Objective
+
 In this project, there will be total 10 queries for the dataset with the following:
 —Check what kind of rating is included
 --Show movie info with R rating and order them by ascending order
