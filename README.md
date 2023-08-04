@@ -49,13 +49,23 @@ ER diagram
 Objective
 
 In this project, there will be total 10 queries for the dataset with the following:
+
 —Check what kind of rating is included
+
 --Show movie info with R rating and order them by ascending order
+
 --Checking which movie is getting more revenue
+
 --Checking the top 10 most frequent customer 
+
 --Show rental ID and rental date for those rental ID is less than 10000
+
 --No. of film in different category
+
 --Which category is the most popular one?
+
 --Check which month have more revenue
+
 -- report of customer film rental
+
 --Number of active customers
